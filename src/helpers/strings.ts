@@ -1,0 +1,3 @@
+export const CODE = Object.freeze({
+  WEBSITE_UNDER_MAINTENANCE: 'WEBSITE_UNDER_MAINTENANCE',
+})
